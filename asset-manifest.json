@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/simple-food-react/static/css/main.5bbfbf43.css",
-    "main.js": "/simple-food-react/static/js/main.f21bcf5f.js",
+    "main.css": "/simple-food-react/static/css/main.824ec0d9.css",
+    "main.js": "/simple-food-react/static/js/main.f26431fc.js",
     "static/media/scooter-guy.png": "/simple-food-react/static/media/scooter-guy.af8f95ccc7f58511f657.png",
     "static/media/Rubik-MediumItalic.woff2": "/simple-food-react/static/media/Rubik-MediumItalic.cff70ab623405748d440.woff2",
     "static/media/Rubik-LightItalic.woff2": "/simple-food-react/static/media/Rubik-LightItalic.d7f457eaa68639ee9b80.woff2",
@@ -15,7 +15,17 @@
     "static/media/Rubik-Light.woff": "/simple-food-react/static/media/Rubik-Light.43a4d523fd4a0017d3c0.woff",
     "static/media/Rubik-Italic.woff": "/simple-food-react/static/media/Rubik-Italic.654331d3defad0290b93.woff",
     "static/media/Rubik-Italic.woff2": "/simple-food-react/static/media/Rubik-Italic.c6ca0689a97f4f9c8159.woff2",
+    "static/media/beef.png": "/simple-food-react/static/media/beef.d5a88c91bfb115a96aff.png",
+    "static/media/cheese.png": "/simple-food-react/static/media/cheese.6471a4d1359ff17cc3fc.png",
+    "static/media/black.png": "/simple-food-react/static/media/black.e6cc472cd298c71511a5.png",
+    "static/media/queen.png": "/simple-food-react/static/media/queen.91aa3decb7bf567e567c.png",
+    "static/media/chicken.png": "/simple-food-react/static/media/chicken.f6231e4a9cff79a07be0.png",
+    "static/media/asia.svg": "/simple-food-react/static/media/asia.e22ebd25da0d6bfc58dee0f01b7ea969.svg",
     "static/media/logo.svg": "/simple-food-react/static/media/logo.5d4f80f80651afaf553d3d10a45b18d6.svg",
+    "static/media/sandwich.svg": "/simple-food-react/static/media/sandwich.6b42fb22aae3da98a5793cb3b3af77b5.svg",
+    "static/media/pizza.svg": "/simple-food-react/static/media/pizza.193bb6c07c96702304c9c190d01e2c3e.svg",
+    "static/media/set.svg": "/simple-food-react/static/media/set.2b2c529336fa9d9c28b84b06fe34badd.svg",
+    "static/media/burger.svg": "/simple-food-react/static/media/burger.cdff2a9909080a75f2a98a8c299142b5.svg",
     "static/media/instagram.svg": "/simple-food-react/static/media/instagram.d86fcbc823f793a0fd713b6907b37654.svg",
     "static/media/cart.svg": "/simple-food-react/static/media/cart.684418b0c6f8e1842ef99aa30ad4479a.svg",
     "static/media/twitter.svg": "/simple-food-react/static/media/twitter.97be5b68fa31a6a8e638227fed7a145d.svg",
@@ -26,11 +36,11 @@
     "index.html": "/simple-food-react/index.html",
     "static/media/facebook.svg": "/simple-food-react/static/media/facebook.465a5c856550e79a228c7c114cc8fe99.svg",
     "static/media/search.svg": "/simple-food-react/static/media/search.8a418e74b897631f435861b89ab58343.svg",
-    "main.5bbfbf43.css.map": "/simple-food-react/static/css/main.5bbfbf43.css.map",
-    "main.f21bcf5f.js.map": "/simple-food-react/static/js/main.f21bcf5f.js.map"
+    "main.824ec0d9.css.map": "/simple-food-react/static/css/main.824ec0d9.css.map",
+    "main.f26431fc.js.map": "/simple-food-react/static/js/main.f26431fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bbfbf43.css",
-    "static/js/main.f21bcf5f.js"
+    "static/css/main.824ec0d9.css",
+    "static/js/main.f26431fc.js"
   ]
 }
