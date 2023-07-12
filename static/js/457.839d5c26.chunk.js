@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[457],{2457:function(e,s,t){e.exports=t.p+"static/media/watch.f6d0d0e4021f73193e43.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[180],{4180:function(e,t,s){e.exports=s.p+"static/media/twitter.97be5b68fa31a6a8e638.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[403],{403:function(e,c,s){e.exports=s.p+"static/media/facebook.465a5c856550e79a228c.svg"}}]);

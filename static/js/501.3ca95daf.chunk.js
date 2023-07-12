@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[501],{3501:function(e,s,t){e.exports=t.p+"static/media/arrow-left.5d460924733331f60765.svg"}}]);

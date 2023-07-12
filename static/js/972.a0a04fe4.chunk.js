@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[972],{972:function(e,s,t){e.exports=t.p+"static/media/telegram.71000030fbe8feba2b91.svg"}}]);

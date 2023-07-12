@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[50],{50:function(e,c,s){e.exports=s.p+"static/media/pizza.193bb6c07c96702304c9.svg"}}]);

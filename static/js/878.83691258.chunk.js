@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[878],{2878:function(e,c,s){e.exports=s.p+"static/media/cheese.6471a4d1359ff17cc3fc.png"}}]);

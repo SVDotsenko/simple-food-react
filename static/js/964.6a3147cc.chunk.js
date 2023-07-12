@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[964],{8964:function(e,s,c){e.exports=c.p+"static/media/phone.19174c3bd8248dea33d4.svg"}}]);

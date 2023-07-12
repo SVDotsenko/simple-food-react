@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[400],{400:function(e,s,c){e.exports=c.p+"static/media/cart.684418b0c6f8e1842ef9.svg"}}]);
