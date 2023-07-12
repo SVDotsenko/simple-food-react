@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[710],{710:function(e,s,t){e.exports=t.p+"static/media/stopwatch.22f5f28832b5a340c669.svg"}}]);

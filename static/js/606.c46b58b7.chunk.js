@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[606],{606:function(e,s,a){e.exports=a.p+"static/media/burger.cdff2a9909080a75f2a9.svg"}}]);
