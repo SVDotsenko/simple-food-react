@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/simple-food-react/static/css/main.824ec0d9.css",
-    "main.js": "/simple-food-react/static/js/main.f26431fc.js",
+    "main.css": "/simple-food-react/static/css/main.9bd41f7c.css",
+    "main.js": "/simple-food-react/static/js/main.1a881956.js",
+    "static/media/app.jpg": "/simple-food-react/static/media/app.267d6a7a58b19bad50e7.jpg",
     "static/media/scooter-guy.png": "/simple-food-react/static/media/scooter-guy.af8f95ccc7f58511f657.png",
+    "static/media/food-delivery-man.png": "/simple-food-react/static/media/food-delivery-man.f85ffe28ab6e20eeffa1.png",
     "static/media/Rubik-MediumItalic.woff2": "/simple-food-react/static/media/Rubik-MediumItalic.cff70ab623405748d440.woff2",
     "static/media/Rubik-LightItalic.woff2": "/simple-food-react/static/media/Rubik-LightItalic.d7f457eaa68639ee9b80.woff2",
     "static/media/Rubik-Medium.woff2": "/simple-food-react/static/media/Rubik-Medium.c41596e022024d84c2a6.woff2",
@@ -21,7 +23,10 @@
     "static/media/queen.png": "/simple-food-react/static/media/queen.91aa3decb7bf567e567c.png",
     "static/media/chicken.png": "/simple-food-react/static/media/chicken.f6231e4a9cff79a07be0.png",
     "static/media/asia.svg": "/simple-food-react/static/media/asia.e22ebd25da0d6bfc58dee0f01b7ea969.svg",
+    "static/media/delivery.svg": "/simple-food-react/static/media/delivery.6335975c0e9a8e835d84.svg",
+    "static/media/shop.svg": "/simple-food-react/static/media/shop.25bcfbf1c4168f986c90.svg",
     "static/media/logo.svg": "/simple-food-react/static/media/logo.5d4f80f80651afaf553d3d10a45b18d6.svg",
+    "static/media/stopwatch.svg": "/simple-food-react/static/media/stopwatch.22f5f28832b5a340c669.svg",
     "static/media/sandwich.svg": "/simple-food-react/static/media/sandwich.6b42fb22aae3da98a5793cb3b3af77b5.svg",
     "static/media/pizza.svg": "/simple-food-react/static/media/pizza.193bb6c07c96702304c9c190d01e2c3e.svg",
     "static/media/set.svg": "/simple-food-react/static/media/set.2b2c529336fa9d9c28b84b06fe34badd.svg",
@@ -34,13 +39,14 @@
     "static/media/address.svg": "/simple-food-react/static/media/address.148a2864b75c359d2713.svg",
     "static/media/email.svg": "/simple-food-react/static/media/email.bcecce2ac10f11b04257.svg",
     "index.html": "/simple-food-react/index.html",
+    "static/media/telegram.svg": "/simple-food-react/static/media/telegram.71000030fbe8feba2b91e99ec893b27b.svg",
     "static/media/facebook.svg": "/simple-food-react/static/media/facebook.465a5c856550e79a228c7c114cc8fe99.svg",
     "static/media/search.svg": "/simple-food-react/static/media/search.8a418e74b897631f435861b89ab58343.svg",
-    "main.824ec0d9.css.map": "/simple-food-react/static/css/main.824ec0d9.css.map",
-    "main.f26431fc.js.map": "/simple-food-react/static/js/main.f26431fc.js.map"
+    "main.9bd41f7c.css.map": "/simple-food-react/static/css/main.9bd41f7c.css.map",
+    "main.1a881956.js.map": "/simple-food-react/static/js/main.1a881956.js.map"
   },
   "entrypoints": [
-    "static/css/main.824ec0d9.css",
-    "static/js/main.f26431fc.js"
+    "static/css/main.9bd41f7c.css",
+    "static/js/main.1a881956.js"
   ]
 }
