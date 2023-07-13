@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[627],{7627:function(e,c,s){e.exports=s.p+"static/media/runcho.f7d85fea96bd7d4acc75.jpg"}}]);

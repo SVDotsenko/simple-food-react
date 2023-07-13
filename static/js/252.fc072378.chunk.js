@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[252],{2252:function(e,c,s){e.exports=s.p+"static/media/blaze.39e9aedc2c09c633d85c.jpg"}}]);

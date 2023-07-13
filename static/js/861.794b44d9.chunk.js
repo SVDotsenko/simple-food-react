@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[861],{5861:function(e,s,t){e.exports=t.p+"static/media/star-burgers.452b1b80fd561fe0e673.jpg"}}]);

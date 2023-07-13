@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[562],{562:function(e,s,c){e.exports=c.p+"static/media/kfc.3370f0d519bae0bdd47b.jpg"}}]);

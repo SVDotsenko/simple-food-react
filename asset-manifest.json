@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/simple-food-react/static/css/main.13fc410c.css",
-    "main.js": "/simple-food-react/static/js/main.52c9d4db.js",
+    "main.css": "/simple-food-react/static/css/main.db289585.css",
+    "main.js": "/simple-food-react/static/js/main.c1010477.js",
     "static/js/553.f8817b88.chunk.js": "/simple-food-react/static/js/553.f8817b88.chunk.js",
     "static/js/501.3ca95daf.chunk.js": "/simple-food-react/static/js/501.3ca95daf.chunk.js",
     "static/js/942.81becf52.chunk.js": "/simple-food-react/static/js/942.81becf52.chunk.js",
@@ -40,14 +40,26 @@
     "static/js/490.29cbe02d.chunk.js": "/simple-food-react/static/js/490.29cbe02d.chunk.js",
     "static/js/439.59972fb9.chunk.js": "/simple-food-react/static/js/439.59972fb9.chunk.js",
     "static/js/229.3fd50fdb.chunk.js": "/simple-food-react/static/js/229.3fd50fdb.chunk.js",
+    "static/js/252.fc072378.chunk.js": "/simple-food-react/static/js/252.fc072378.chunk.js",
+    "static/js/75.dff46528.chunk.js": "/simple-food-react/static/js/75.dff46528.chunk.js",
+    "static/js/562.fa716ec5.chunk.js": "/simple-food-react/static/js/562.fa716ec5.chunk.js",
+    "static/js/278.c3dc9aa4.chunk.js": "/simple-food-react/static/js/278.c3dc9aa4.chunk.js",
+    "static/js/627.aaa71b1f.chunk.js": "/simple-food-react/static/js/627.aaa71b1f.chunk.js",
+    "static/js/861.794b44d9.chunk.js": "/simple-food-react/static/js/861.794b44d9.chunk.js",
     "static/media/app.jpg": "/simple-food-react/static/media/app.267d6a7a58b19bad50e7.jpg",
     "static/media/scooter-guy.png": "/simple-food-react/static/media/scooter-guy.af8f95ccc7f58511f657.png",
     "static/media/food-delivery-man.png": "/simple-food-react/static/media/food-delivery-man.f85ffe28ab6e20eeffa1.png",
+    "static/media/runcho.jpg": "/simple-food-react/static/media/runcho.f7d85fea96bd7d4acc75.jpg",
+    "static/media/hut.jpg": "/simple-food-react/static/media/hut.32fac823e8f1074cf147.jpg",
+    "static/media/star-burgers.jpg": "/simple-food-react/static/media/star-burgers.452b1b80fd561fe0e673.jpg",
+    "static/media/blaze.jpg": "/simple-food-react/static/media/blaze.39e9aedc2c09c633d85c.jpg",
     "static/media/Rubik-MediumItalic.woff2": "/simple-food-react/static/media/Rubik-MediumItalic.cff70ab623405748d440.woff2",
     "static/media/Rubik-LightItalic.woff2": "/simple-food-react/static/media/Rubik-LightItalic.d7f457eaa68639ee9b80.woff2",
     "static/media/Rubik-Medium.woff2": "/simple-food-react/static/media/Rubik-Medium.c41596e022024d84c2a6.woff2",
     "static/media/Rubik-Regular.woff2": "/simple-food-react/static/media/Rubik-Regular.f2f28f1e22b492c94794.woff2",
+    "static/media/mcdonalds.jpg": "/simple-food-react/static/media/mcdonalds.c2d9647c29b47c6a802f.jpg",
     "static/media/Rubik-Light.woff2": "/simple-food-react/static/media/Rubik-Light.51dacd69dc8d2c5a97c8.woff2",
+    "static/media/kfc.jpg": "/simple-food-react/static/media/kfc.3370f0d519bae0bdd47b.jpg",
     "static/media/Rubik-MediumItalic.woff": "/simple-food-react/static/media/Rubik-MediumItalic.48003a4aa5603d2562ea.woff",
     "static/media/Rubik-Medium.woff": "/simple-food-react/static/media/Rubik-Medium.936ab7d37ac3c00865fc.woff",
     "static/media/Rubik-Regular.woff": "/simple-food-react/static/media/Rubik-Regular.f04074adeb1533ee3671.woff",
@@ -70,10 +82,14 @@
     "static/media/set.svg": "/simple-food-react/static/media/set.2b2c529336fa9d9c28b8.svg",
     "static/media/burger.svg": "/simple-food-react/static/media/burger.cdff2a9909080a75f2a9.svg",
     "static/media/watch.svg": "/simple-food-react/static/media/watch.f6d0d0e4021f73193e43.svg",
+    "static/media/slick.svg": "/simple-food-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/simple-food-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/simple-food-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/instagram.svg": "/simple-food-react/static/media/instagram.d86fcbc823f793a0fd713b6907b37654.svg",
+    "static/media/slick.woff": "/simple-food-react/static/media/slick.295183786cd8a1389865.woff",
     "static/media/cart.svg": "/simple-food-react/static/media/cart.684418b0c6f8e1842ef99aa30ad4479a.svg",
     "static/media/quote.svg": "/simple-food-react/static/media/quote.4c7edbd66f82daba9b62.svg",
-    "static/media/arrow.svg": "/simple-food-react/static/media/arrow.de8c126d1710828f9050.svg",
+    "static/media/arrow.svg": "/simple-food-react/static/media/arrow.de8c126d1710828f9050df233464bc8d.svg",
     "static/media/twitter.svg": "/simple-food-react/static/media/twitter.97be5b68fa31a6a8e638227fed7a145d.svg",
     "static/media/phone.svg": "/simple-food-react/static/media/phone.19174c3bd8248dea33d4.svg",
     "static/media/close.svg": "/simple-food-react/static/media/close.cbacb310561f6292c9ee1ea4219b94ef.svg",
@@ -84,11 +100,11 @@
     "static/media/facebook.svg": "/simple-food-react/static/media/facebook.465a5c856550e79a228c7c114cc8fe99.svg",
     "static/media/arrow-left.svg": "/simple-food-react/static/media/arrow-left.5d460924733331f60765.svg",
     "static/media/search.svg": "/simple-food-react/static/media/search.8a418e74b897631f435861b89ab58343.svg",
-    "main.13fc410c.css.map": "/simple-food-react/static/css/main.13fc410c.css.map",
-    "main.52c9d4db.js.map": "/simple-food-react/static/js/main.52c9d4db.js.map"
+    "main.db289585.css.map": "/simple-food-react/static/css/main.db289585.css.map",
+    "main.c1010477.js.map": "/simple-food-react/static/js/main.c1010477.js.map"
   },
   "entrypoints": [
-    "static/css/main.13fc410c.css",
-    "static/js/main.52c9d4db.js"
+    "static/css/main.db289585.css",
+    "static/js/main.c1010477.js"
   ]
 }

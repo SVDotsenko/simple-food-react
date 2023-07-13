@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimple_food_react=self.webpackChunksimple_food_react||[]).push([[278],{278:function(c,e,s){c.exports=s.p+"static/media/mcdonalds.c2d9647c29b47c6a802f.jpg"}}]);
